@@ -13,7 +13,7 @@
  - 1 GPIO header
  - I2C Header with Pullup Resistors
 
-### Mounting
+### [Mounting](CAD)
  Mounts are located in the "CAD" folder and there are both horizontal and vertical mounts that can be used with M3 hardware for both 2020 and 1515 extrusions.
  
 [Documentation and Setup information here](Documentation/README.md)
